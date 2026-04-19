@@ -12,6 +12,7 @@ backend/uploads/
 # Build output
 frontend/dist/
 frontend/build/
+# docs folder is kept for GitHub Pages
 
 # Logs
 *.log
